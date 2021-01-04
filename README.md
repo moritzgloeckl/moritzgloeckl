@@ -72,4 +72,6 @@ A software developer from/based in Vienna, Austria.
   </tbody>
 </table>
 
+<hr></hr>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=moritzgloeckl.moritzgloeckl)
