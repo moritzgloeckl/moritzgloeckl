@@ -1,6 +1,6 @@
-<h1>Hi, I'm Moritz</h1>
+<h1>Hi, I'm Moritz 👋</h1>
 
-A software developer from/based in 🇦🇹 Vienna, Austria.
+An IT consultant/software developer from/based in 🇦🇹 Vienna, Austria.
 
 <h2>🎓 Education</h2>
 
